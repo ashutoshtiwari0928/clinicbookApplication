@@ -3,3 +3,13 @@
 ## Frontend repository: https://github.com/ashutoshtiwari0928/clinicBookFrontend.git
 ## Backend repository: https://github.com/ashutoshtiwari0928/AppointmentBooking.git
 
+## Tech Stack:
+**Frontend**
+React.js, Tailwind CSS, Axios
+
+**Backend**
+Spring Boot, MySQL, JWT Authentication
+
+## Architecture 
+```plain text
+[User] → [Frontend React App] → [REST API - Spring Boot] → [Database]
