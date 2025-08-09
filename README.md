@@ -4,13 +4,13 @@
 ## Backend repository: https://github.com/ashutoshtiwari0928/AppointmentBooking.git
 
 ## Tech Stack:
-**Frontend**
+**Frontend:**
 React.js, Tailwind CSS, Axios
 
-**Backend**
+**Backend:**
 Spring Boot, MySQL, JWT Authentication
 
-**Version Control and Automation**
+**Version Control and Automation:**
 Git, Github, Github Action, FTP deployment
 
 ## Architecture 
