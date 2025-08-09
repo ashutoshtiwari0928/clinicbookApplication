@@ -10,6 +10,9 @@ React.js, Tailwind CSS, Axios
 **Backend**
 Spring Boot, MySQL, JWT Authentication
 
+**Version Control and Automation**
+Git, Github, Github Action, FTP deployment
+
 ## Architecture 
 ```plain text
 [User] → [Frontend React App] → [REST API - Spring Boot] → [Database]
