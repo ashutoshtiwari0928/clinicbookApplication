@@ -34,4 +34,4 @@ Git, Github, Github Action, FTP deployment
 
 ## Architecture
 
-[Click here](UML.svg)
+[Click here](UML.drawio.html)
